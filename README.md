@@ -2,3 +2,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A database implementation by using linked lists and queues by using cpp
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The problem can be seen by reading [problem.pdf](problem.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp; The implementation understanding can be gained by [readMe.pdf](readMe.pdf)
